@@ -58,16 +58,16 @@
       }
     },
     {
-      "prg_svc_id": "48",
-      "display": "71",
+      "prg_svc_id": "8",
+      "display": "00",
       "name": "Movies",
       "category": "FILMES E SERIES",
-      "poster": "https://peach.blender.org/wp-content/uploads/bbb-splash.png",
-      "thumbnail": "https://peach.blender.org/wp-content/uploads/bbb-splash.png",
-      "stream_url": "http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8",
+      "poster": "https://vdn.libreflix.org/covers/media/sintel/sintelthumb.jpg",
+      "thumbnail": "https://vdn.libreflix.org/covers/media/sintel/sintelthumb.jpg",
+      "stream_url": "http://sample.vodobox.net/skate_phantom_flex_4k/skate_phantom_flex_4k.m3u8",
       "description": "Movies",
       "schedules": {
-        "schedules_id": "48",
+        "schedules_id": "8",
         "events": {
           "programs": {
             "title": "Movies",
