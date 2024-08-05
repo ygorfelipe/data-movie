@@ -7,7 +7,7 @@
       "category": "FILMES E SERIES",
       "poster": "https://vdn.libreflix.org/covers/media/sintel/sintelthumb.jpg",
       "thumbnail": "https://vdn.libreflix.org/covers/media/sintel/sintelthumb.jpg",
-      "stream_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+      "stream_url": "http://sample.vodobox.net/skate_phantom_flex_4k/skate_phantom_flex_4k.m3u8",
       "description": "Movies",
       "schedules": {
         "schedules_id": "8",
@@ -26,7 +26,7 @@
       "category": "FILMES E SERIES",
       "poster": "https://i.vimeocdn.com/video/1577055459-8aec47092693822082d47780421a37b142d9eecddd7b53a5b73568cd3c6a2f9c-d_750x421.875?q=60",
       "thumbnail": "https://i.vimeocdn.com/video/1577055459-8aec47092693822082d47780421a37b142d9eecddd7b53a5b73568cd3c6a2f9c-d_750x421.875?q=60",
-      "stream_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "stream_url": "http://playertest.longtailvideo.com/adaptive/wowzaid3/playlist.m3u8",
       "description": "Movies",
       "schedules": {
         "schedules_id": "6",
@@ -45,7 +45,7 @@
       "category": "FILMES E SERIES",
       "poster": "https://i.ytimg.com/vi/kPdv44HtEoA/maxresdefault.jpg",
       "thumbnail": "https://i.ytimg.com/vi/kPdv44HtEoA/maxresdefault.jpg",
-      "stream_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "stream_url": "http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8",
       "description": "Movies",
       "schedules": {
         "schedules_id": "7",
@@ -64,7 +64,7 @@
       "category": "FILMES E SERIES",
       "poster": "https://peach.blender.org/wp-content/uploads/bbb-splash.png",
       "thumbnail": "https://peach.blender.org/wp-content/uploads/bbb-splash.png",
-      "stream_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "stream_url": "http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8",
       "description": "Movies",
       "schedules": {
         "schedules_id": "48",
