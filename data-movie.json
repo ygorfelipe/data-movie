@@ -1,0 +1,80 @@
+{
+    "results": [
+        {
+            "prg_svc_id": "8",
+            "display": "00",
+            "name": "Movies",
+            "category": "FILMES E SERIES",
+            "poster": "https://vdn.libreflix.org/covers/media/sintel/sintelthumb.jpg",
+            "thumbnail": "https://vdn.libreflix.org/covers/media/sintel/sintelthumb.jpg",
+            "stream_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+            "description": "TV ENJOY",
+            "schedules": {
+                "schedules_id": "8",
+                "events": {
+                    "programs": {
+                        "title": "Movies",
+                        "description": "Movies"
+                    }
+                }
+            }
+        },
+        {
+            "prg_svc_id": "6",
+            "display": "01",
+            "name": "Movies",
+            "category": "FILMES E SERIES",
+            "poster": "https://i.vimeocdn.com/video/1577055459-8aec47092693822082d47780421a37b142d9eecddd7b53a5b73568cd3c6a2f9c-d_750x421.875?q=60",
+            "thumbnail": "https://i.vimeocdn.com/video/1577055459-8aec47092693822082d47780421a37b142d9eecddd7b53a5b73568cd3c6a2f9c-d_750x421.875?q=60",
+            "stream_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+            "description": "Movies",
+            "schedules": {
+                "schedules_id": "6",
+                "events": {
+                    "programs": {
+                        "title": "Movies",
+                        "description": "Movies"
+                    }
+                }
+            }
+        },
+        {
+            "prg_svc_id": "7",
+            "display": "02",
+            "name": "Movies",
+            "category": "FILMES E SERIES",
+            "poster": "https://i.ytimg.com/vi/kPdv44HtEoA/maxresdefault.jpg",
+            "thumbnail": "https://i.ytimg.com/vi/kPdv44HtEoA/maxresdefault.jpg",
+            "stream_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "description": "Movies",
+            "schedules": {
+                "schedules_id": "7",
+                "events": {
+                    "programs": {
+                        "title": "Movies",
+                        "description": "Movies"
+                    }
+                }
+            }
+        },
+        {
+            "prg_svc_id": "48",
+            "display": "71",
+            "name": "Movies",
+            "category": "FILMES E SERIES",
+            "poster": "https://peach.blender.org/wp-content/uploads/bbb-splash.png",
+            "thumbnail": "https://peach.blender.org/wp-content/uploads/bbb-splash.png",
+            "stream_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "description": "Movies",
+            "schedules": {
+                "schedules_id": "48",
+                "events": {
+                    "programs": {
+                        "title": "Movies",
+                        "description": "Movies"
+                    }
+                }
+            }
+        }
+    ]
+}
