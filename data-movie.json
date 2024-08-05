@@ -18,44 +18,6 @@
           }
         }
       }
-    },
-    {
-      "prg_svc_id": "6",
-      "display": "01",
-      "name": "Movies",
-      "category": "FILMES E SERIES",
-      "poster": "https://i.vimeocdn.com/video/1577055459-8aec47092693822082d47780421a37b142d9eecddd7b53a5b73568cd3c6a2f9c-d_750x421.875?q=60",
-      "thumbnail": "https://i.vimeocdn.com/video/1577055459-8aec47092693822082d47780421a37b142d9eecddd7b53a5b73568cd3c6a2f9c-d_750x421.875?q=60",
-      "stream_url": "http://playertest.longtailvideo.com/adaptive/wowzaid3/playlist.m3u8",
-      "description": "Movies",
-      "schedules": {
-        "schedules_id": "6",
-        "events": {
-          "programs": {
-            "title": "Movies",
-            "description": "Movies"
-          }
-        }
-      }
-    },
-    {
-      "prg_svc_id": "7",
-      "display": "02",
-      "name": "Movies",
-      "category": "FILMES E SERIES",
-      "poster": "https://i.ytimg.com/vi/kPdv44HtEoA/maxresdefault.jpg",
-      "thumbnail": "https://i.ytimg.com/vi/kPdv44HtEoA/maxresdefault.jpg",
-      "stream_url": "http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8",
-      "description": "Movies",
-      "schedules": {
-        "schedules_id": "7",
-        "events": {
-          "programs": {
-            "title": "Movies",
-            "description": "Movies"
-          }
-        }
-      }
     }
   ]
 }
